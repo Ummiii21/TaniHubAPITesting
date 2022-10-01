@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get All Data From API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c9df971-b94d-4ee8-9b6d-bafb381fb623</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad45d755-f684-459b-b959-cd022180599c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'4e09b023-f650-4747-9ab9-eacf14540cfb'</defaultValue>
+      <description></description>
+      <id>ad45d755-f684-459b-b959-cd022180599c</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
